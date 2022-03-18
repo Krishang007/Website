@@ -1,0 +1,194 @@
+
+
+
+
+
+body{
+    background-color: tan; 
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+
+   
+    padding-left: 10px;
+
+}
+#bottom{
+   padding-left: 10px;
+
+
+}
+#containerTop{
+    background-color: tan;
+    height: 120px;
+    width: 100%;
+    border-style:solid;
+    padding:10px;
+}
+
+table{
+    border: 1px green;
+    width: 100%;
+}
+
+
+tr, td{
+    border: 1px solid green;
+}
+
+
+
+
+
+#logo{
+    background-color: tan;
+    height: 70px;
+    width: 120px;
+    padding:2px;
+    font-family:Myriad Pro ;
+    font-size: 24pt;
+}
+
+#navBar {
+    background-color: tan;
+    text-align: left;
+    height: 30px;
+    padding:2px;
+
+}
+
+/*#image5{
+
+   background-image: url("image5.jpg");
+   background-size: cover;
+   background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+
+  position: relative;
+    height: 500px;
+    width: 100%;
+    border-style:solid;
+    padding:10px;
+     border: 1px black;
+
+}*/
+
+section{
+    border-style: solid;
+    border-color: green;
+    color:black
+    
+
+}
+
+#instagram,#twitter{
+    width: 250px;
+    height: 250px ;
+    border-style: solid;
+    border-color: green;
+ 
+
+}
+
+
+#bookYourtable{
+     align-items: center;    
+
+}
+ article{
+      font-size: 24 pt;
+
+
+ }
+ .whole{
+    background-color: antiquewhite;
+    padding: 1%;
+    
+        border-radius: 25px;
+        background-position: left top;
+        background-repeat: repeat;
+       
+      
+
+    width: 1200px;
+    margin: 100px auto;
+
+}
+ .title{
+     text-align: center;
+     margin-bottom: 60px;
+
+ }
+
+ .title h4{
+    text-transform: capitalize;
+    font-size: 48pt;
+    position: relative;
+    display: inline-block;
+
+
+
+ }
+
+ .menu{
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+ }
+
+ .single-menu{
+     flex-basis: 580px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid#ddd ;
+
+ }
+ .single-menu img{
+    width: 250px;
+    height: 250px;
+
+
+ }
+
+ .title-lunchItems{
+     text-align: center;
+ }
+
+
+
+
+
+#contact{
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 1%;
+    
+        border-radius: 25px;
+        background-position: left top;
+        background-repeat: repeat;
+        padding: 20px; 
+        width: 750px;
+        height: 500px;  
+        float:lefts
+  
+
+}
+#contact img{
+    width: 200px;
+    height: 200px;
+}
+
+#foooter{
+    background-color:rgb(228, 228, 228);
+    border-top-style:solid;
+    height:62px;
+    text-align: center;
+    font-style: italic;
+    width: 750px;
+    margin-top: 320px;
+    padding-top: 10px;
+    text-align: center;
+}
